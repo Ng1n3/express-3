@@ -1,0 +1,4 @@
+node_modules
+*.pem
+pnpm-lock.yaml
+tsconfig.json
