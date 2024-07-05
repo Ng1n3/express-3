@@ -17,6 +17,6 @@ app.use("*", (req: Request, res: Response, next: NextFunction) => {
   });
 });
 
-app.listen(8090, () => {
+app.listen(80, () => {
   console.log("App listening on http://localhost:80");
 });
